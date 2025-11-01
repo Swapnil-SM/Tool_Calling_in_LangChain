@@ -6,7 +6,7 @@ import requests
 #import os
 
 load_dotenv()
-#os.environ["GOOGLE_API_KEY"] = "AIzaSyB0yJwwl-a_7pTiwdzoyvgs_94P90KEpEs"
+
 
 # tool creation
 
